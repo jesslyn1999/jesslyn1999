@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Jesslyn Nathania's Code Diary <img width="45" src="https://raw.githubusercontent.com/jesslyn1999/jesslyn1999/main/img/dog.gif">
+# Jesslyn Nathania's Code Diary <img width="45" src="https://github.com/jesslyn1999/jesslyn1999/blob/main/res/img/dog.gif">
 
 feel free to explore it
 
