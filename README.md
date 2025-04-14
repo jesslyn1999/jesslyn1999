@@ -40,6 +40,7 @@ feel free to explore it
 
 
 ### Others
+leetcode: https://leetcode.com/u/jesslynnathania99/
 hm I must learn Chinese too: https://leetcode.cn/u/jesslyn1999/
 
 ---
