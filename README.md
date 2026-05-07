@@ -17,7 +17,14 @@ Here are some ideas to get you started:
 
 # Jesslyn Nathania's Code Diary <img width="45" src="https://github.com/jesslyn1999/jesslyn1999/blob/main/res/img/dog.gif">
 
-feel free to explore it
+I use my skills across startup and corporate life.
+
+- **2015-now:** Programming
+- **2017-now:** Software engineer — 5+ years building with React. I care deeply about clean code, system design, and keeping spaghetti code out of the kitchen. Dependency Injection, Container, Infras, you name it... (I’ve probably debugged it).
+- **2020-2021:** Android Java/Kotlin developer
+- **2022-2025:** doing research, also an AI engineer. I focused on computer vision, object detection, segmentation, and LLMs
+- **2025-now:** 🌟 Robotics Engineer, a noob in autonomous driving (autoware, carla) and robotics arm (isaac)
+
 
 ### My Skills
 
